@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img src="https://github.com/Bryan1604/Bryan1604/blob/output/github-contribution-grid-snake-dark.svg%3Fpalette%3Dgithub-dark" />
+  <img src="https://raw.githubusercontent.com/Bryan1604/Bryan1604/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
