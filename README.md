@@ -38,10 +38,12 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/Bryan1604/Bryan1604/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Bryan1604/Bryan1604/blob/output/github-contribution-grid-snake-dark.svg%3Fpalette%3Dgithub-dark" />
   
   <br/><br/><br/>
 </div>
 <hr/>
 
+<!--https://github.com/Bryan1604/Bryan1604/blob/output/github-contribution-grid-snake.svg
 
+-->
