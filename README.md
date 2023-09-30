@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Luong+Vu!;" />
 </h1>
 
 <h3 align="center">A software developer from VietNam</h3>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=swift,github,python,java,php,javascript,firebase,mongodb,c" /><br>
-    <img src="https://skillicons.dev/icons?i=react,mui,flutter,laravel,springboot,mysql,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=react,mui,flutter,laravel,spring,mysql,html,css,vscode,figma,git" />
 </div>
 
 <br/>
