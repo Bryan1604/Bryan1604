@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </circle>
   <!-- ... Other SVG elements ... -->
 </svg>
-### My name is Luong
+<h1> My name is Luong</h1>
 
 ![Snake animation]
 (https://github.com/Bryan1604/Bryan1604/blob/output/github-contribution-grid-snake.svg)
