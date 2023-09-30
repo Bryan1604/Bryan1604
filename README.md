@@ -36,6 +36,21 @@ Here are some ideas to get you started:
 <hr/>
 
 <div align="center">
+  <h2>Contact to me</h2>
+  <ul class="social-list">
+        <li style="color: blue;"><a href="https://www.facebook.com/luongvuhs"><i class="fab fa-facebook"></i> Facebook</a></li>
+<!--         <li style="color: green;"><a href="https://www.twitter.com"><i class="fab fa-twitter"></i> Twitter</a></li> -->
+<!--         <li style="color: red;"><a href="https://www.instagram.com"><i class="fab fa-instagram"></i> Instagram</a></li> -->
+        <li style="color: purple;"><a href="https://www.linkedin.com/in/luong-vu-b74782218/"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
+        <li style="color: red;"><i class="fab fa-linkedin"></i> Gmail: luongvuhs@gmail.com</a></li>
+
+        <!-- Add more social media links as needed with individual styles -->
+    </ul>
+</div>
+
+<hr/>
+
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img src="https://raw.githubusercontent.com/Bryan1604/Bryan1604/output/github-contribution-grid-snake.svg" />
