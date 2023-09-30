@@ -1,6 +1,6 @@
-### Hi there 👋
+ <!--### Hi there 👋
 
-<!--
+
 **Bryan1604/Bryan1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,15 +15,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="100">
-  <!-- ... Other SVG elements ... -->
-  <path d="M10 80 C 40 10, 65 10, 95 80 S 150 150, 180 80" id="snake" />
-  <circle cx="10" cy="80" r="6">
-    <animate attributeName="r" from="6" to="16" begin="0s" dur="0.4s" repeatCount="indefinite" />
-  </circle>
-  <!-- ... Other SVG elements ... -->
-</svg>
-<h1> My name is Luong</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+
+<h3 align="center">A software developer from VietNam</h3>
+
+<br/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=swift,github,python,java,php,javascript,firebase,mongodb,c" /><br>
+    <img src="https://skillicons.dev/icons?i=react,mui,flutter,laravel,springboot,mysql,html,css,vscode,figma,git" />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+<hr/>
 
 ![Snake animation]
 (https://github.com/Bryan1604/Bryan1604/blob/output/github-contribution-grid-snake.svg)
