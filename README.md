@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <div >
   <h2 align="center">Contact to me</h2>
   <ul style="text-align: left" class="social-list">
-        <li style="color: blue;">Facebook :<a href="https://www.facebook.com/luongvuhs"><i class="fab fa-facebook"></i>Facebook.LuongVu</a></li>
+<!--         <li style="color: blue;">Facebook :<a href="https://www.facebook.com/luongvuhs"><i class="fab fa-facebook"></i>Facebook.LuongVu</a></li> -->
 <!--         <li style="color: green;"><a href="https://www.twitter.com"><i class="fab fa-twitter"></i> Twitter</a></li> -->
 <!--         <li style="color: red;"><a href="https://www.instagram.com"><i class="fab fa-instagram"></i> Instagram</a></li> -->
         <li style="color: purple;"> LinkedIn :<a href="https://www.linkedin.com/in/luong-vu-b74782218/"><i class="fab fa-linkedin"></i>Linkedin.LuongVu </a></li>
