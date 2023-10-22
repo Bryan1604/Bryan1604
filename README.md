@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=swift,github,python,java,php,javascript,firebase,mongodb,c" /><br>
-    <img src="https://skillicons.dev/icons?i=react,mui,flutter,laravel,spring,mysql,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=swift,flutter,python,java,php,mongodb,c" /><br>
+    <img src="https://skillicons.dev/icons?i=react,laravel" />
 </div>
 
 <br/>
